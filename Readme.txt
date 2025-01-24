@@ -30,7 +30,7 @@ The system initializes with the following predefined books:
    - Install [Eclipse IDE](https://www.eclipse.org/downloads/).
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/PRAJYOTWASEKAR/LibraryManagementSystem.git
    ```
 3. **Import the Project into Eclipse**:
    - Open Eclipse IDE.
@@ -79,8 +79,3 @@ Library Management System/
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
-
----
-
-Feel free to contribute to this project by submitting issues or pull requests on the [GitHub repository](https://github.com/your-username/library-management-system).
-
